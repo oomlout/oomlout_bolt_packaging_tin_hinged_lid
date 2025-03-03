@@ -18,7 +18,7 @@ def main(**kwargs):
     
 
     #run build oomp
-    if False:
+    if True:
         import action_build_oomp
         kwargs2 = copy.deepcopy(kwargs)
         action_build_oomp.main(**kwargs2)
