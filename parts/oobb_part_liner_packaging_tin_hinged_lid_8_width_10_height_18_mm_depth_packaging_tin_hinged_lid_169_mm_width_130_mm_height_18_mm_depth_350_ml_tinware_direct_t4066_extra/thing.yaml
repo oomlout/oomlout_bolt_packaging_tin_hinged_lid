@@ -1,0 +1,339 @@
+classification: oobb
+color: ''
+description_extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+description_main: 8_width_10_height_18_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: oobb_part_liner_packaging_tin_hinged_lid_8_width_10_height_18_mm_depth_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+id_oobb: oobb_part_oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid_8_width_10_height_18_mm_depth_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+kwargs:
+  depth_start: 18
+  diameter_bottom_bend: 1
+  extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+  filter: ''
+  height: 10
+  height_start: 169
+  modes:
+  - 3dpr
+  navigation: true
+  oomp_classification: oobb
+  oomp_color: ''
+  oomp_description_extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+  oomp_description_main: 8_width_10_height_18_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: oobb
+  oomp_part_number: ''
+  oomp_run: false
+  oomp_size: liner_packaging_tin_hinged_lid
+  oomp_type: part
+  overwrite: true
+  thickness: 18
+  thickness_bead: 1.5
+  thickness_tin: 0.5
+  typ: all
+  type: oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid
+  width: 8
+  width_start: 129
+manufacturer: ''
+name: liner_packaging_tin_hinged_lid
+part_number: ''
+project_name: C:\gh\oomlout_bolt_packaging_tin_hinged_lid
+size: liner_packaging_tin_hinged_lid
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+      height: 10
+      pos:
+      - 0
+      - 0
+      - 0
+      r: 9.0
+      shape: rounded_rectangle
+      size:
+      - 124.5
+      - 164.5
+      - 15.25
+      type: positive
+      width: 8
+  - - extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+      height: 10
+      pos:
+      - 0
+      - 0
+      - 0
+      r: 9
+      shape: rounded_rectangle
+      size:
+      - 124.5
+      - 164.5
+      - 17.5
+      type: positive
+      width: 8
+  - - - extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+        height: 10
+        pos:
+        - -34.25
+        - -83.75
+        - 1
+        shape: cube
+        size:
+        - 68.5
+        - 167.5
+        - 15.0
+        type: positive
+        width: 8
+  - - - extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+        height: 10
+        pos:
+        - -63.75
+        - -54.25
+        - 1
+        shape: cube
+        size:
+        - 127.5
+        - 108.5
+        - 15.0
+        type: positive
+        width: 8
+  - - extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+      height: 10
+      pos:
+      - 0
+      - 0
+      - 0
+      r: 5.5
+      shape: rounded_rectangle
+      size:
+      - 121
+      - 151
+      - 17.5
+      type: negative
+      width: 8
+  components_objects:
+  - depth_start: 18
+    diameter_bottom_bend: 1
+    extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+    filter: ''
+    height: 10
+    height_start: 169
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: liner_packaging_tin_hinged_lid
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    radius: 9.0
+    save_type: all
+    shape: rounded_rectangle
+    size:
+    - 124.5
+    - 164.5
+    - 15.25
+    thickness: 18
+    thickness_bead: 1.5
+    thickness_tin: 0.5
+    typ: all
+    type: p
+    width: 8
+    width_start: 129
+  - depth_start: 18
+    diameter_bottom_bend: 1
+    extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+    filter: ''
+    height: 10
+    height_start: 169
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: liner_packaging_tin_hinged_lid
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    radius: 9
+    save_type: all
+    shape: rounded_rectangle
+    size:
+    - 124.5
+    - 164.5
+    - 17.5
+    thickness: 18
+    thickness_bead: 1.5
+    thickness_tin: 0.5
+    typ: all
+    type: p
+    width: 8
+    width_start: 129
+  - depth_start: 18
+    diameter_bottom_bend: 1
+    extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+    filter: ''
+    height: 10
+    height_start: 169
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: liner_packaging_tin_hinged_lid
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 1
+    save_type: all
+    shape: oobb_cube
+    size:
+    - 68.5
+    - 167.5
+    - 15.0
+    thickness: 18
+    thickness_bead: 1.5
+    thickness_tin: 0.5
+    typ: all
+    type: p
+    width: 8
+    width_start: 129
+  - depth_start: 18
+    diameter_bottom_bend: 1
+    extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+    filter: ''
+    height: 10
+    height_start: 169
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: liner_packaging_tin_hinged_lid
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 1
+    save_type: all
+    shape: oobb_cube
+    size:
+    - 127.5
+    - 108.5
+    - 15.0
+    thickness: 18
+    thickness_bead: 1.5
+    thickness_tin: 0.5
+    typ: all
+    type: p
+    width: 8
+    width_start: 129
+  - depth_start: 18
+    diameter_bottom_bend: 1
+    extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+    filter: ''
+    height: 10
+    height_start: 169
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: liner_packaging_tin_hinged_lid
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    radius: 5.5
+    save_type: all
+    shape: rounded_rectangle
+    size:
+    - 121
+    - 151
+    - 17.5
+    thickness: 18
+    thickness_bead: 1.5
+    thickness_tin: 0.5
+    typ: all
+    type: n
+    width: 8
+    width_start: 129
+  components_string:
+  - rounded_rectangle_shape_p_type_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_8_width_10_height_18_thickness_oobb_oomp_classification_part_oomp_type_liner_packaging_tin_hinged_lid_oomp_size_129_width_start_169_height_start_18_depth_start_0.5_thickness_tin_1.5_thickness_bead_1_diameter_bottom_bend_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra_124.5_164.5_15.25_size_9.0_radius
+  - rounded_rectangle_shape_p_type_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_8_width_10_height_18_thickness_oobb_oomp_classification_part_oomp_type_liner_packaging_tin_hinged_lid_oomp_size_129_width_start_169_height_start_18_depth_start_0.5_thickness_tin_1.5_thickness_bead_1_diameter_bottom_bend_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra_124.5_164.5_17.5_size_9_radius
+  - oobb_cube_shape_p_type_0_0_1_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_8_width_10_height_18_thickness_oobb_oomp_classification_part_oomp_type_liner_packaging_tin_hinged_lid_oomp_size_129_width_start_169_height_start_18_depth_start_0.5_thickness_tin_1.5_thickness_bead_1_diameter_bottom_bend_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra_68.5_167.5_15.0_size
+  - oobb_cube_shape_p_type_0_0_1_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_8_width_10_height_18_thickness_oobb_oomp_classification_part_oomp_type_liner_packaging_tin_hinged_lid_oomp_size_129_width_start_169_height_start_18_depth_start_0.5_thickness_tin_1.5_thickness_bead_1_diameter_bottom_bend_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra_127.5_108.5_15.0_size
+  - rounded_rectangle_shape_n_type_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_8_width_10_height_18_thickness_oobb_oomp_classification_part_oomp_type_liner_packaging_tin_hinged_lid_oomp_size_129_width_start_169_height_start_18_depth_start_0.5_thickness_tin_1.5_thickness_bead_1_diameter_bottom_bend_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra_121_151_17.5_size_5.5_radius
+  description: oomlout bolt packaging tin hinged lid liner packaging tin hinged lid
+    8x10x18
+  description_extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+  description_main: 8_width_10_height_18_mm_depth
+  extra: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid_8_width_10_height_18_mm_depth_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+  height: 10
+  height_mm: 149
+  id: oobb_part_oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid_8_width_10_height_18_mm_depth_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid/8_width_10_height_18_mm_depth/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid_08_10_18_ex_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+  manufacturer: ''
+  name: Oobb Part Oomlout Bolt Packaging Tin Hinged Lid Liner Packaging Tin Hinged
+    Lid 8 Width 10 Height 18 mm Depth Packaging Tin Hinged Lid 169 mm Width 130 mm
+    Height 18 mm Depth 350 Ml Tinware Direct T4066 Extra
+  name_short: Oomlout Bolt Packaging Tin Hinged Lid
+  part_number: ''
+  short_name: ''
+  size: oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid
+  thickness: 18
+  thickness_mm: 18
+  type: part
+  width: 8
+  width_mm: 119
+type: part

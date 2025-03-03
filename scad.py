@@ -142,7 +142,7 @@ def make_scad(**kwargs):
         p3["thickness_bead"] = 2
         p3["diameter_bottom_bend"] = 1
         #extra = f"width_start_{p3["width_start"]}_height_start_{p3["height_start"]}_depth_start_{p3["depth_start"]}"
-        extra = "packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066"
+        extra = "packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005"
         p3["extra"] = extra
         nam = "liner_packaging_tin_hinged_lid"
         part["name"] = nam
@@ -165,7 +165,7 @@ def make_scad(**kwargs):
         p3["thickness_tin"] = 0.5
         p3["thickness_bead"] = 1.5 #remember to remove tin thickness
         p3["diameter_bottom_bend"] = 1
-        extra = "packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005"
+        extra = "packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066"
         #extra = f"width_start_{p3["width_start"]}_height_start_{p3["height_start"]}_depth_start_{p3["depth_start"]}"
         p3["extra"] = extra
         nam = "liner_packaging_tin_hinged_lid"
