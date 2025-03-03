@@ -1,0 +1,7 @@
+* [oobb](oobb)
+  * [part](oobb/part)
+    * [liner_packaging_tin_hinged_lid](oobb/part/liner_packaging_tin_hinged_lid)
+      * [10_width_14_height_21_mm_depth](oobb/part/liner_packaging_tin_hinged_lid/10_width_14_height_21_mm_depth)
+        * [packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra](oobb/part/liner_packaging_tin_hinged_lid/10_width_14_height_21_mm_depth/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066_extra)
+      * [8_width_10_height_18_mm_depth](oobb/part/liner_packaging_tin_hinged_lid/8_width_10_height_18_mm_depth)
+        * [packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra](oobb/part/liner_packaging_tin_hinged_lid/8_width_10_height_18_mm_depth/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra)

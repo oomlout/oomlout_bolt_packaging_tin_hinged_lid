@@ -181,7 +181,7 @@ def make_scad(**kwargs):
     #generate navigation
     if navigation:
         sort = []
-        #sort.append("extra")
+        sort.append("extra")
         sort.append("name")
         sort.append("width")
         sort.append("height")
