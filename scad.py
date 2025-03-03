@@ -137,7 +137,7 @@ def make_scad(**kwargs):
         p3["width_start"] = 161 # external_measurement
         p3["height_start"] = 221
         p3["depth_start"] = 21  #internal depth measurement      
-        p3["depth"] = p3["depth_start"]
+        p3["thickness"] = p3["depth_start"]
         p3["thickness_tin"] = 0.5
         p3["thickness_bead"] = 2
         p3["diameter_bottom_bend"] = 1
@@ -161,7 +161,7 @@ def make_scad(**kwargs):
         p3["width_start"] = 129 # external_measurement
         p3["height_start"] = 169
         p3["depth_start"] = 18 #inside depth measurement      
-        p3["depth"] = p3["depth_start"]
+        p3["thickness"] = p3["depth_start"]
         p3["thickness_tin"] = 0.5
         p3["thickness_bead"] = 1.5 #remember to remove tin thickness
         p3["diameter_bottom_bend"] = 1

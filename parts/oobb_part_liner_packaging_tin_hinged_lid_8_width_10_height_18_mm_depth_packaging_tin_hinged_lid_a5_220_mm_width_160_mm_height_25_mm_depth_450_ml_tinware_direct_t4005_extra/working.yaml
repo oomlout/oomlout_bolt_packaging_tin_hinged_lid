@@ -1,7 +1,7 @@
 classification: oobb
 color: ''
 description_extra: packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra
-description_main: 8_width_10_height_3_mm_depth
+description_main: 8_width_10_height_18_mm_depth
 full_rotations:
 - 0
 - 0
@@ -10,10 +10,9 @@ full_shift:
 - 0
 - 0
 - 0
-id: oobb_part_liner_packaging_tin_hinged_lid_8_width_10_height_3_mm_depth_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra
-id_oobb: oobb_part_oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid_8_width_10_height_3_mm_depth_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra_18_depth
+id: oobb_part_liner_packaging_tin_hinged_lid_8_width_10_height_18_mm_depth_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra
+id_oobb: oobb_part_oomlout_bolt_packaging_tin_hinged_lid_liner_packaging_tin_hinged_lid_8_width_10_height_18_mm_depth_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra
 kwargs:
-  depth: 18
   depth_start: 18
   diameter_bottom_bend: 1
   extra: packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
@@ -26,15 +25,15 @@ kwargs:
   oomp_classification: oobb
   oomp_color: ''
   oomp_description_extra: packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005_extra
-  oomp_description_main: 8_width_10_height_3_mm_depth
+  oomp_description_main: 8_width_10_height_18_mm_depth
   oomp_manufacturer: ''
   oomp_mode: oobb
   oomp_part_number: ''
-  oomp_run: true
+  oomp_run: false
   oomp_size: liner_packaging_tin_hinged_lid
   oomp_type: part
   overwrite: true
-  thickness: 3
+  thickness: 18
   thickness_bead: 1.5
   thickness_tin: 0.5
   typ: all
