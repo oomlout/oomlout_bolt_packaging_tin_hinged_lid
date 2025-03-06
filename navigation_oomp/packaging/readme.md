@@ -1,3 +1,7 @@
+* [elastic_band](elastic_band)
+  * [size_85](elastic_band/size_85)
+    * [natural](elastic_band/size_85/natural)
+      * [12_mm_width_100_mm_length](elastic_band/size_85/natural/12_mm_width_100_mm_length)
 * [tin_hinged_lid](tin_hinged_lid)
   * [169_mm_width_130_mm_height_18_mm_depth_350_ml](tin_hinged_lid/169_mm_width_130_mm_height_18_mm_depth_350_ml)
     * [tinware_direct](tin_hinged_lid/169_mm_width_130_mm_height_18_mm_depth_350_ml/tinware_direct)
